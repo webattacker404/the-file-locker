@@ -1,1 +1,1 @@
-this terminal is used for hackig but ahould not be used for anything illegal
+This application is only for testing and is not used for anything illegal. If you want to run this application use a virtual machine
